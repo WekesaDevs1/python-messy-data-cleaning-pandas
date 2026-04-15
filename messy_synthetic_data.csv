@@ -1,0 +1,124 @@
+ Employee ID ,Name ,Age,Salary ,City,Department,Join Date,Email
+0,Jack,30,"60,000", Nairobi ,,not_a_date,
+,Al!ce,27,50000,nakuru,Sales,not_a_date,
+2,,200,"60,000",kisumu,sales,2024/13/01,test@example.com
+3, Alice ,25,KES 80000,kisumu,,05/01/2024,
+4,Al!ce,200,KES 80000,kisumu,Finance,05/01/2024,USER@MAIL.COM
+,Eve,25,KES 80000, Nairobi ,HR,2024/13/01,test@example.com
+6,,,,kisumu,IT,2024/13/01,
+,Ivy,,,nairobi,,05/01/2024,
+,,45,"60,000",,sales,not_a_date,
+9,Al!ce,45,,eldoret,Finance,not_a_date,test@example.com
+, Alice ,unknown,,eldoret,HR,05/01/2024,
+11, Alice ,27,,kisumu,,,bademail
+12,Henry,unknown,,nairobi,,,USER@MAIL.COM
+13,Grace,25,KES 80000,,hr,,
+,Frank,,"60,000",nairobi,Finance,not_a_date,
+15,Al!ce,27,,MOMBASA,HR,05/01/2024,
+16, Alice ,30,50000,nairobi,,05/01/2024,bademail
+17,Eve,30,,MOMBASA,Finance,2024/13/01,test@example.com
+18,CHARLIE,unknown,,MOMBASA,IT,2024/13/01,
+19,Henry,200,50000,nairobi,IT,not_a_date,bademail
+,Al!ce,27,"60,000", Nairobi ,IT,,USER@MAIL.COM
+, Alice ,27,50000,eldoret,HR,05/01/2024,USER@MAIL.COM
+,,,,kisumu,,05/01/2024,
+23,Grace,-5,,eldoret,Sales,2024/13/01,USER@MAIL.COM
+24, Alice ,unknown,50000, Nairobi ,IT,2024/13/01,USER@MAIL.COM
+,Jack,unknown,75000.5,nairobi,Sales,,USER@MAIL.COM
+,CHARLIE,25,KES 80000,kisumu,Finance,05/01/2024,USER@MAIL.COM
+,Jack,27,KES 80000, Nairobi ,,2024/13/01,
+, Alice ,-5,,eldoret,IT,05/01/2024,USER@MAIL.COM
+29,Frank,45,"60,000",eldoret,hr,2024/13/01,test@example.com
+,Ivy,-5,,nakuru,hr,05/01/2024,test@example.com
+31,CHARLIE,45,75000.5,kisumu,IT,2024/13/01,
+32,Frank,-5,"60,000", Nairobi ,IT,05/01/2024,
+,CHARLIE,30,"60,000",nairobi,,05/01/2024,
+34,CHARLIE,-5,50000,eldoret,sales,,
+35,Jack,30,"60,000",,IT,,
+36,Henry,unknown,50000,nairobi,IT,05/01/2024,
+37,bob,,50000,nairobi,hr,05/01/2024,
+,CHARLIE,30,KES 80000,MOMBASA,hr,05/01/2024,test@example.com
+,Grace,unknown,,,,2024/13/01,test@example.com
+40,,-5,50000,nairobi,Sales,2024/13/01,
+41,Henry,,"60,000",eldoret,sales,05/01/2024,bademail
+,bob,unknown,75000.5,nakuru,Finance,2024/13/01,USER@MAIL.COM
+43,Eve,27,75000.5,,sales,2024/13/01,test@example.com
+,bob,-5,75000.5,eldoret,IT,05/01/2024,bademail
+45,Frank,unknown,75000.5,,sales,,
+46,Diana,27,50000,kisumu,,05/01/2024,bademail
+47,,30,50000,nairobi,IT,2024/13/01,
+,CHARLIE,30,,,sales,,USER@MAIL.COM
+49,Al!ce,45,75000.5,,IT,05/01/2024,
+50,CHARLIE,27,75000.5,nairobi,Finance,,
+51,CHARLIE,unknown,KES 80000,MOMBASA,Sales,05/01/2024,bademail
+52,,200,KES 80000,,,,
+53,Grace,-5,75000.5,,,05/01/2024,
+54, Alice ,-5,,MOMBASA,HR,05/01/2024,bademail
+55,Grace,,75000.5, Nairobi ,hr,not_a_date,test@example.com
+56,Ivy,-5,,nakuru,hr,05/01/2024,bademail
+,,200,75000.5,eldoret,Finance,,
+58,,27,50000, Nairobi ,Finance,05/01/2024,
+59,Eve,unknown,,,Finance,05/01/2024,
+60,bob,,75000.5,MOMBASA,IT,not_a_date,USER@MAIL.COM
+61,Henry,,,,,,USER@MAIL.COM
+62,Ivy,30,"60,000", Nairobi ,IT,05/01/2024,USER@MAIL.COM
+63,Henry,27,KES 80000,eldoret,,05/01/2024,bademail
+,CHARLIE,200,75000.5, Nairobi ,,,
+,bob,unknown,"60,000",kisumu,,,test@example.com
+66,Ivy,200,,nairobi,Sales,,USER@MAIL.COM
+67,Diana,45,"60,000",MOMBASA,hr,2024/13/01,bademail
+68,,200,75000.5,,,not_a_date,test@example.com
+69,Jack,,75000.5,,sales,05/01/2024,test@example.com
+70,Ivy,unknown,,MOMBASA,sales,,bademail
+71,Grace,-5,,,Sales,05/01/2024,
+,Frank,unknown,,eldoret,Finance,,
+73,,,KES 80000,kisumu,Sales,2024/13/01,
+74,Henry,,,,HR,not_a_date,
+75,Frank,25,,eldoret,,not_a_date,bademail
+76,Henry,27,,,Sales,not_a_date,USER@MAIL.COM
+,Al!ce,unknown,75000.5, Nairobi ,Sales,2024/13/01,bademail
+,,unknown,75000.5,nakuru,IT,not_a_date,USER@MAIL.COM
+,Ivy,25,"60,000", Nairobi ,,05/01/2024,bademail
+80,,200,50000,MOMBASA,HR,05/01/2024,
+81,Jack,unknown,75000.5,kisumu,hr,2024/13/01,bademail
+82,bob,-5,KES 80000,nairobi,HR,2024/13/01,
+83,Frank,27,KES 80000,eldoret,HR,not_a_date,bademail
+84,,27,"60,000",kisumu,Sales,,
+85,Grace,27,"60,000",kisumu,sales,05/01/2024,
+,Jack,45,,,,,USER@MAIL.COM
+87,Al!ce,45,,nakuru,Finance,2024/13/01,
+88,bob,27,,,sales,05/01/2024,USER@MAIL.COM
+,Frank,200,50000,MOMBASA,Sales,05/01/2024,
+90,Al!ce,27,,nairobi,,,
+,Frank,unknown,50000,MOMBASA,sales,05/01/2024,
+92,Henry,200,KES 80000,MOMBASA,hr,05/01/2024,bademail
+,Ivy,,75000.5,nakuru,IT,2024/13/01,
+94,Diana,30,50000,nairobi,Sales,not_a_date,bademail
+,Jack,unknown,75000.5,eldoret,HR,05/01/2024,test@example.com
+96,Grace,45,,nairobi,,2024/13/01,USER@MAIL.COM
+97,Henry,unknown,50000,nairobi,Sales,,USER@MAIL.COM
+98,Eve,30,KES 80000, Nairobi ,hr,05/01/2024,
+99,,unknown,,kisumu,,not_a_date,bademail
+100,Eve,27,75000.5,nairobi,HR,2024/13/01,
+101,Frank,,,kisumu,,05/01/2024,bademail
+102,Eve,45,50000,MOMBASA,Sales,05/01/2024,
+103, Alice ,30,,nakuru,Finance,05/01/2024,bademail
+104,CHARLIE,25,KES 80000,MOMBASA,,not_a_date,test@example.com
+105,bob,unknown,"60,000", Nairobi ,IT,05/01/2024,
+106,,unknown,"60,000",MOMBASA,IT,not_a_date,test@example.com
+107,bob,,75000.5,kisumu,Finance,2024/13/01,
+,Jack,200,50000,MOMBASA,,,
+109,Eve,45,75000.5,,,,bademail
+110,Grace,-5,75000.5, Nairobi ,Sales,2024/13/01,
+111,Grace,unknown,"60,000",,IT,2024/13/01,
+112,Ivy,30,75000.5,,Finance,2024/13/01,
+113,Henry,unknown,KES 80000,nakuru,Finance,not_a_date,test@example.com
+114,CHARLIE,25,,nakuru,IT,05/01/2024,
+115,Frank,-5,KES 80000,,,,bademail
+116, Alice ,45,"60,000",kisumu,HR,05/01/2024,USER@MAIL.COM
+,,25,50000,,sales,05/01/2024,bademail
+118,,30,50000,kisumu,HR,,
+119,Jack,-5,KES 80000,,hr,05/01/2024,
+,Eve,25,KES 80000, Nairobi ,HR,2024/13/01,test@example.com
+, Alice ,unknown,,eldoret,HR,05/01/2024,
+15,Al!ce,27,,MOMBASA,HR,05/01/2024,
